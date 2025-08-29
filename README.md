@@ -1,2 +1,2 @@
-# DEco_TXnode
+# Primer Prueba
 Modulo de adquisición y transmisión de datos para EV de la competencia Desafío Eco.
