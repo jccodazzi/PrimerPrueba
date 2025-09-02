@@ -1,4 +1,4 @@
-name = "Soy"
+name = "Juan"
 surname = "Codazzi"
 
 cadena = "Hola!!" + " " + name + " " + surname
